@@ -1,6 +1,6 @@
 # Terminal-based Chat Application
 
-This is a simple terminal-based chat application implemented in C++.
+This is a simple terminal-based group chat application implemented in C++.
 
 ## Features
 
@@ -14,13 +14,13 @@ This is a simple terminal-based chat application implemented in C++.
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/a4appIe/Cpp-Chat-App.git
+    git clone https://github.com/a4appIe/cpp-chat-app.git
     ```
 
 2. Navigate to the directory:
 
     ```bash
-    cd chat-app
+    cd cpp-chat-app
     ```
 
 3. Compile the code:
@@ -41,7 +41,7 @@ This is a simple terminal-based chat application implemented in C++.
 
 3. Once entered, you can start sending and receiving messages with other online users.
 
-4. To exit the application, simply type `quit`.
+4. To exit the application, simply type `/quit`.
 
 ## Dependencies
 
