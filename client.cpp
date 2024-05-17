@@ -28,7 +28,7 @@ void sendMsg(SOCKET s) {
 				cout << "Error while sending message :(" << endl;
 				break;
 			}
-			if (msg == "quit") {
+			if (msg == "/quit") {
 				cout << "Stopping the chat..." << endl << "See you again..." << endl << endl;
 				break;
 				return;
