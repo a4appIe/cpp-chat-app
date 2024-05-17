@@ -24,18 +24,30 @@ This is a simple terminal-based group chat application implemented in C++.
     cd cpp-chat-app
     ```
 
-3. Compile the code:
+3. Compile server code:
 
     ```bash
-    g++ -o chatapp main.cpp
+    g++ -o server server.cpp
     ```
 
-## Usage
-
-1. Run the compiled executable:
+4. Compile client code:
 
     ```bash
-    ./chatapp
+    g++ -o client client.cpp
+    ```
+
+## Usage 
+### Run these commands in different terminal/command prompt tabs.
+
+1. Run the server executable:
+
+    ```bash
+    server.exe
+    ```
+2. Run the client executable:
+
+    ```bash
+    client.exe
     ```
 
 2. You will be prompted to enter your name for the chat. Enter your name.
