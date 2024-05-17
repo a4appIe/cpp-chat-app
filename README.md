@@ -8,7 +8,7 @@ This is a simple terminal-based group chat application implemented in C++.
 - **Real-time Messaging:** Users can send and receive messages in real-time.
 - **User List:** Multiple users can join the chat at a time.
 - **Simple Interface:** Easy-to-use command line interface.
-- **Disadvantage:** This is only for windows.
+- **Disadvantage:** Runs on windows operating system.
 
 ## Installation
 
